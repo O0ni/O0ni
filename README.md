@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eddie!
+- 👋 Hi, I’m Eddie! I would like to warmly welcome you to my Workspace!
 - 👀 I’m interested in Serverless Computing,Containers(Docker, K8's),Cloud Computing, Cloud Security,Cloud Engineering
 - 🌱 I’m currently learning Cybersecurity,Azure,AWS,Docker,K8S,Containerization,Prometheus,Jenkins,Chef,Puppet,Ansible,Terraform,GIT,BASH,CLI,
 - 💞️ I’m looking to collaborate on any available projects to show my unlimited potential!
